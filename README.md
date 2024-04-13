@@ -1,7 +1,8 @@
 # qrscanner_barcode
 
-A new Flutter project.
+![Flutter Barcode Scanner Output.gif](Flutter%20Barcode%20Scanner%20Output.gif)
 
+A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
